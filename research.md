@@ -1,1 +1,9 @@
-Research here
+# Student Portfolio Research
+
+After reading Cheng & Chau’s article on the effects of electronic portfolios and reflective ability, there were several findings that I think align with my own goals. Firstly, Cheng & Chau (2013) mentioned that most participants saw their portfolios as a tool for self-improvement, and not for outperforming others. I think this aligns with my goals of becoming a skilled designer because I want my portfolio to be a showcase of my own creativity and not something that tries to match or one-up my peers. Cheng & Chau (2013) also mention how portfolios can aid reflection which I think aligns with my goal of working on an exciting and innovative product because I find reflecting on my work allows me to think about opportunities to make things better or come up with new approaches. I also read Huang et al’s article on electronic portfolios and goal orientation which further aligned with my goals. Huang et al. (2012) talk about how portfolios can promote mastery goals which are associated with positive emotions. I think this finding aligns with my goal of having fulfillment in my work but also with my goal of leading a healthier and happier lifestyle overall. Finally, Huang et al. (2012) mention how portfolios can help build social networks by showcasing skills and achievements. This aligns with my career goals as building a solid network can help me secure job positions faster. 
+
+Works Cited
+
+Cheng, G., & Chau, J. (2013). A study of the effects of goal orientation on the reflective ability of electronic portfolio users. The Internet and Higher Education, 16, 51–56. https://doi.org/10.1016/j.iheduc.2012.01.003 
+
+Huang, J., Yang, S., Chiang, P., & Tzeng, L. (2012). Building an e-portfolio learning model: Goal orientation and metacognitive strategies. Knowledge Management and E-Learning: An International Journal, 4(1). https://doi.org/http://www.kmel-journal.org/ojs/index.php/online-publication/article/view/149/152 
